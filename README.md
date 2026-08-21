@@ -15,7 +15,7 @@ A 13yo passionate developer learning TypeScript and software engineering. Buildi
 ### 🛠️ Tech Stack & Tools
 Here are the technologies I am currently learning and using for my projects:
 
-- **Languages:** TypeScript, JavaScript, HTML5, CSS3
+- **Languages:** C++, TypeScript, JavaScript, HTML5, CSS3
 - **Runtime & Tools:** Node.js, Electron.js, Git, GitHub, VS Code
 
 ---
