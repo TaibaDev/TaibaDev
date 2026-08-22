@@ -5,7 +5,7 @@ A 13yo passionate developer learning TypeScript, C++ and software engineering. B
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Focus:** Master the fundamentals of **TypeScript** and clean code architecture.
+- 🔭 **Current Focus:** Master the fundamentals of **TypeScript**, **C++** and clean code architecture.
 - 🧠 **Future Goals:** Dive deep into **Artificial Intelligence**, neural networks, and scalable systems.
 - 💼 **The Big Dream:** Build an outstanding 5-year track record to join top tech companies at 18.
 - ⚡ **Fun Fact:** I love learning new technologies by building real projects.
