@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Benjamin Taiba
 
-A 13yo passionate developer learning TypeScript and software engineering. Building my journey code by code, targeting the future.
+A 13yo passionate developer learning TypeScript, C++ and software engineering. Building my journey code by code, targeting the future.
 
 ---
 
